@@ -7,7 +7,7 @@ Khorvie's Bufferbloat Patches with additional info while executing.
 No changes to the Patches themselves, just the interface.
 <br>
 <br>
-Not endorsed by Khorvie-Tech (yet)
+Approved by Khorvie-Tech.
 <br>
 YouTube: [@khorvietech](https://www.youtube.com/@khorvietech)
 <br>
