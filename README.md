@@ -4,6 +4,8 @@
 <br>
 Khorvie's Bufferbloat Patches with additional info while executing. No changes to the patches themselves, just the interface.
 <br>
+Not endorsed by Khorvie-Tech (yet)
+<br>
 <br>
 <br>
 <br>
