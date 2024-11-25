@@ -9,6 +9,7 @@ No changes to the Patches themselves, just the interface.
 <br>
 Not endorsed by Khorvie-Tech (yet)
 <br>
+YouTube: [@khorvietech](https://www.youtube.com/@khorvietech)
 <br>
 <br>
 <br>
