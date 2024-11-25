@@ -2,7 +2,10 @@
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/fat_kopa)
 <br>
 <br>
-Khorvie's Bufferbloat Patches with additional info while executing. No changes to the patches themselves, just the interface.
+Khorvie's Bufferbloat Patches with additional info while executing.
+<br>
+No changes to the Patches themselves, just the interface.
+<br>
 <br>
 Not endorsed by Khorvie-Tech (yet)
 <br>
