@@ -31,5 +31,6 @@ Script Visuals:
 <br>
 Feel free to correct my mistakes, all support is appreciated.
 <br>
+---------------------
 Happy gaming!
 <br>
